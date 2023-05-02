@@ -29,9 +29,11 @@ To run this project, you will need to add the following environment variables fo
 `PASSWORD=""`
 
 ### Run the script
+
 ```bash
+  npm i
   npm run start
 ```
-Note: Dependancies will be installed automatically
+Note: Other Dependancies will be installed automatically
 ## 🔗 Links
 [Live preview of Frontend](https://react-todo-list-tau-six.vercel.app/)
