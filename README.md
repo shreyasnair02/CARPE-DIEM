@@ -12,8 +12,8 @@ A simple Todo List built using React Express Node and postgres
 ```
 ### Start postgres 
 ```bash
-  sudo service postgres status
-  sudo service postgres start
+  sudo service postgresql status
+  sudo service postgresql start
 ```
 
 ### Environment Variables
